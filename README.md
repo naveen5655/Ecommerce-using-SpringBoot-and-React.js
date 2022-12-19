@@ -5,6 +5,7 @@ The term stock management is the process of determining and properly managing ho
 ## I Build This Project using Frontend as ReactJS and Backend as SpringBoot
 # Backend
 - connect the database in application.properties
+- Run springboot 
 # Frontend
 - npm install
 - npm start 
