@@ -32,9 +32,10 @@
 
 
 ## Add to Cart
-![image](https://user-images.githubusercontent.com/89301294/208350662-40fde5f5-66ac-4d7b-9971-57c540eadd49.png)
+![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/6ad8fbd8-e0ac-4597-aed9-c7af1c01ac91)
 
-## Thank you for visiting
+
+## Thank you for visiting repository
 
 
 
