@@ -11,14 +11,7 @@
 
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/9a3e74ff-9bf5-4bce-8f93-26148d6a4227)
 
-
-
-
-
-## Register as Admin, customer and delivery Person
-![image](https://user-images.githubusercontent.com/89301294/208349967-05aa3467-ada7-471a-9031-2315e26279f8.png)
-
-## FeedBack or Conatctus Form
+## FeedBack or Contactus Form
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/6e1ded73-264c-4d5e-b758-02529ac1dbdc)
 
 
