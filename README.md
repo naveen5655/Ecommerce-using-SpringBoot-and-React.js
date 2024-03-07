@@ -22,9 +22,6 @@
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/6e1ded73-264c-4d5e-b758-02529ac1dbdc)
 
 
-## About US
-![image](https://user-images.githubusercontent.com/89301294/208350055-f1518ae1-9dc1-48e1-985e-54275e871688.png)
-
 ## Login 
 ![image](https://user-images.githubusercontent.com/89301294/208350105-84c9c0f6-3143-49f3-b36e-13446db8141d.png)
 
