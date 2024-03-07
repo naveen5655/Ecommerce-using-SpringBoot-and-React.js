@@ -9,7 +9,8 @@
 ## Home Page
 ![image](https://user-images.githubusercontent.com/89301294/208349824-5d52fac8-85c4-4427-9891-240abe10db0e.png)
 
-![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/dd745a8c-c0b9-4bbe-9971-fd1245b5c963)
+![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/131d336a-4660-4dae-9f59-fbb19324cbad)
+
 
 
 ## Register as Admin, customer and delivery Person
