@@ -24,7 +24,8 @@
 
 
 ## Add Product
-![image](https://user-images.githubusercontent.com/89301294/208350572-47e7563d-4ddf-4766-9b17-d2266b0ebbd5.png)
+![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/bede807a-c0fb-42c3-ab28-407f9d5d6527)
+
 
 ## Product Added Successfull
 ![image](https://user-images.githubusercontent.com/89301294/208350612-851e9a76-5220-438b-a588-05527c7c4418.png)
