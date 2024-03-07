@@ -7,8 +7,6 @@
 - npm start 
 
 ## Home Page
-![image](https://user-images.githubusercontent.com/89301294/208349824-5d52fac8-85c4-4427-9891-240abe10db0e.png)
-
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/57623f29-7e10-4f8e-aa20-485bf60ee33b)
 
 ![image](https://github.com/naveen5655/Ecommerce-using-SpringBoot-and-React.js/assets/89301294/9a3e74ff-9bf5-4bce-8f93-26148d6a4227)
