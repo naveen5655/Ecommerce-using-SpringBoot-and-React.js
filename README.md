@@ -1,7 +1,7 @@
 ## I Created this project using ReactJS and SpringBoot.
 # Run Backend
 - connect the database in application.properties
-- Run springboot 
+- Run as springboot 
 # Run Frontend
 - npm install
 - npm start 
@@ -45,12 +45,18 @@
 
 
 ## Payment 
-![image](https://github.com/naveen5655/icecream/assets/89301294/82f5a0bc-8d8a-4d8c-be6f-bf2ff21956f4)
 
+User should fill all required data
+
+![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/728c8159-78cb-41d6-8f03-943e139e81ec)
+
+User should enter correct card details.
+
+![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/a26284d7-4d63-4836-b796-4d3e859b6a2d)
+
+After entering correct card details, user can click on pay and it will redirect to home page and say `Products Ordered Sucessfully!!!`
+
+![image](https://github.com/naveen5655/SHOPMELLA/assets/89301294/9d88553a-9c2c-499b-89cb-8bebbf2276a6)
 
 
 ## Thank you for visiting repository
-
-
-
-
